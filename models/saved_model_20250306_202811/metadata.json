@@ -1,0 +1,11 @@
+{
+    "best_params": {
+        "learning_rate": 0.2,
+        "max_depth": 7,
+        "n_estimators": 200,
+        "random_state": 42,
+        "scale_pos_weight": 0.7562696912413358
+    },
+    "validation_f1_score": 0.7170294494238156,
+    "timestamp": "20250306_202811"
+}
